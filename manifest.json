@@ -1,0 +1,12 @@
+{
+    "namespace": "Lugom",
+    "name": "AstolfoPlushie",
+    "description": "Adds an Astolfo Plushie as a scrap item",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-LethalLib-0.14.2"
+    ],
+    "website_url": "https://github.com/Luigizera",
+    "FullName": "Lugom-AstolfoPlushie"
+}
