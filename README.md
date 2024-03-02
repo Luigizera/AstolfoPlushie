@@ -3,7 +3,9 @@ This mod adds new scraps in the game called Astolfo Plushies from Fate/Apocrypha
 
 # Assets
 ## Model
-This Model was found in: https://vrcmods.com/item/3504-Astolfo-Bean-Plushie-Official-Port-
+- This Model was found in: https://vrcmods.com/item/3504-Astolfo-Bean-Plushie-Official-Port-
+- All Plushies Avaliable:
+![AstolfoPlushies](https://i.imgur.com/hm2hG3n.png)
 
 ## Sounds
 - Change inventory slot sound: https://www.myinstants.com/en/instant/yahoo-astolfo-11025/
@@ -16,4 +18,4 @@ This Model was found in: https://vrcmods.com/item/3504-Astolfo-Bean-Plushie-Offi
 - https://youtu.be/971OlPcVUHM?si=ub-iZUPWB9JZnqLC
 - https://github.com/EvaisaDev/LethalThings
 - https://github.com/Miloet/TheManyModsOfLethalCompany/
-- https://github.com/MinosVEVO/YakuzaMod/
+- https://github.com/MinosVEVO/YakuzaMod/-

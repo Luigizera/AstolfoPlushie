@@ -11,7 +11,7 @@ namespace AstolfoPlushie
     {
         private const string modGUID = "Lugom.AstolfoPlushie";
         private const string modName = "Astolfo Plushie";
-        private const string modVersion = "1.1.1";
+        private const string modVersion = "1.1.2";
         private readonly Harmony harmony = new Harmony(modGUID);
         private static AstolfoPlushieMod instance;
         public static ManualLogSource logger;

@@ -86,7 +86,7 @@ namespace AstolfoPlushie
                 CustomScrap.AddWithVerification("AstolfoPlushie_Red", "Assets/Astolfo/AstolfoRed/AstolfoPlushieRed_Item.asset", Levels.LevelTypes.None, Config.int_astolfoPlushie_red_spawnChance.Value, enabled: Config.extraAstolfos.Value),
                 CustomScrap.AddWithVerification("AstolfoPlushie_Green", "Assets/Astolfo/AstolfoGreen/AstolfoPlushieGreen_Item.asset", Levels.LevelTypes.None, Config.int_astolfoPlushie_green_spawnChance.Value, enabled: Config.extraAstolfos.Value),
                 CustomScrap.AddWithVerification("AstolfoPlushie_Blue", "Assets/Astolfo/AstolfoBlue/AstolfoPlushieBlue_Item.asset", Levels.LevelTypes.None, Config.int_astolfoPlushie_blue_spawnChance.Value, enabled: Config.extraAstolfos.Value),
-                CustomScrap.AddWithVerification("AstolfoPlushie_Yellow", "Assets/Astolfo/AStolfoYellow/AstolfoPlushieYellow_Item.asset", Levels.LevelTypes.None, Config.int_astolfoPlushie_yellow_spawnChance.Value, enabled: Config.extraAstolfos.Value),
+                CustomScrap.AddWithVerification("AstolfoPlushie_Yellow", "Assets/Astolfo/AstolfoYellow/AstolfoPlushieYellow_Item.asset", Levels.LevelTypes.None, Config.int_astolfoPlushie_yellow_spawnChance.Value, enabled: Config.extraAstolfos.Value),
                 CustomScrap.AddWithVerification("AstolfoPlushie_Emerald", "Assets/Astolfo/AstolfoEmerald/AstolfoPlushieEmerald_Item.asset", Levels.LevelTypes.All, Config.int_astolfoPlushie_emerald_spawnChance.Value, enabled: Config.extraAstolfos.Value),
                 CustomScrap.AddWithVerification("AstolfoPlushie_Diamond", "Assets/Astolfo/AstolfoDiamond/AstolfoPlushieDiamond_Item.asset", Levels.LevelTypes.All, Config.int_astolfoPlushie_diamond_spawnChance.Value, enabled: Config.extraAstolfos.Value),
 
