@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.1
+- Fixed LethalConfig options Mistype
+
 ## 1.1.0
 - Added Gold Astolfo Plushie
 - Added Emerald Astolfo Plushie
