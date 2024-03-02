@@ -1,7 +1,7 @@
 {
     "namespace": "Lugom",
     "name": "AstolfoPlushie",
-    "description": "Adds an Astolfo Plushie as a scrap item",
+    "description": "Adds a lot of Astolfo Plushies as scrap items",
     "version_number": "1.0.0",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
